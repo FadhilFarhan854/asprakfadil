@@ -1,4 +1,5 @@
-Buatlah program untuk membuat sebuah catatan prosedur dimana setiap node berisi data untuk menjelaskan tahapan tahapan dalam membuat sesuatu
+Buatlah program untuk membuat sebuah catatan keuntungan harian untuk 1 bulan penjualan tiap node mencatat tanggal dan jumlah keuntungan 
 contoh :
-1. Cara membuat teh
-Ambil teh -> 
+node 1 :
+tanggal = 1
+keuntugan 20000
