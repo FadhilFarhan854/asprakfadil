@@ -1,0 +1,3 @@
+1. tidak bisa menambahkan data di tengah/ sesuai index yang di inginkan
+2. untuk method hapus belakang kurang efisien karena ini merupakan singly linkedlist, sehingga untuk iterasi node membutuhkan looping
+   jika menggunakan double linked linkedlist maka tidak perlu iterasi dengan looping cukup gunakan tail, prev, dan next
