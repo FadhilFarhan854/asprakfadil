@@ -1,5 +1,18 @@
-Buatlah program untuk membuat sebuah catatan keuntungan harian untuk 1 bulan penjualan tiap node mencatat tanggal dan jumlah keuntungan 
+Buatlah program untuk membuat sebuah catatan keuntungan harian untuk 1 bulan penjualan berbentuk list, setiap node mencatat tanggal dan jumlah keuntungan 
 contoh :
 node 1 :
 tanggal = 1
 keuntugan 20000
+.
+sampai maksimal 31 hari
+.
+node 31:
+tanggal = 31
+keuntungan = 40000
+
+lalu buatlah fitur untuk
+1. input data
+2. display semua data
+3. display total keuntungan
+4. hapus data
+5. edit data
